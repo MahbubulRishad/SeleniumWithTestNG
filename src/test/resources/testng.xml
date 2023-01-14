@@ -12,3 +12,23 @@
         </classes>
     </test>
 </suite>
+
+
+<!--Running classes-->
+
+<!--<classes>-->
+<!--<class name="com.first.example.demoOne"/>-->
+<!--<class name="com.first.example.demoTwo"/>-->
+<!--<class name="com.second.example.demoThree"/>-->
+<!--</classes>-->
+
+
+
+<!--Running method-->
+
+<!--<class name="TestNG_Test.TestNgTest">-->
+<!--                <methods>-->
+<!--                    <include name="verifyLogInPage"/>-->
+<!--                    <include name="verifyAboutUs"/>-->
+<!--                </methods>-->
+<!--</class>-->

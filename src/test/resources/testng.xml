@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="D:/Personal/SeleniumWithTestNG">
         <classes>
-            <class name="TestNG_Test.TestNgTest"/>
+<!--            <class name="TestNG_Test.ObaydulBhai.TestNGTesting"/>-->
             <class name="TestNG_Test.DataDrivenTest"/>
 <!--                <methods>-->
 <!--                    <include name="verifyLogInPage"/>-->
